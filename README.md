@@ -4,3 +4,4 @@
 #Removed static list and added function to gen list 
 #11/22/19
 # Script is fully functional with new functions
+# ks-python
